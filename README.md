@@ -1,14 +1,13 @@
 # FaceBlur  
-AI Privacy Filter for Sensitive Images  
+AI Privacy Filter for ID card/ Passport Images  
 
 ## 📌 Overview  
-FaceBlur is an AI-powered system that detects and protects sensitive information in images, such as ID cards, passports, and faces. It uses computer vision to identify these regions and applies automatic blurring, ensuring user privacy in both static images and live video feeds.  
+FaceBlur is an AI-powered system that detects and protects sensitive information in camera streams, such as ID cards, and passports. It uses computer vision to identify these regions and applies automatic blurring, ensuring user privacy in live video feeds.  
 
 ## ✨ Features  
-- Detects sensitive regions (faces, ID cards, passports)  
+- Detects sensitive regions (ID cards, passports)  
 - Automatically applies blur to hide private information  
-- Works on both images and real-time camera streams  
-- Includes visualization tools for bounding boxes and brightness analysis  
+- Works on real-time camera streams  
 
 ## 🗂 Dataset 
 
